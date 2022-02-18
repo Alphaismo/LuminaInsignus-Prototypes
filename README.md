@@ -2,7 +2,7 @@
 
 (EXTRACT THE ZIP FILE ITSELF, AND I'M TOO LAZY TO MAKE A DESCRIPTION FOR THE MOD)
 
-This (expansion) mod adds variety of races, and tons of weapons. Encounter dangerous Andarhan squadrons. Visit the Arcadia of Lumina Insignus, or luxuries of Lightbrick City. Discover the unknown. Sleep with Boomboxid women.
+This (expansion) mod adds variety of races, and tons of weapons. Encounter dangerous Andarhan squadrons. Visit the arcadia of Lumina Insignus, the zenith of Vervas Tharaau or luxuries of Lightbrick City. Discover the unknown. Sleep with Boomboxid women.
 
 
 
