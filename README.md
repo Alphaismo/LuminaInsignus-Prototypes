@@ -1,6 +1,10 @@
 # LuminaInsignus-Prototype1
 
-(EXTRACT THE ZIP FILE ITSELF)
+(EXTRACT THE ZIP FILE ITSELF, AND I'M TOO LAZY TO MAKE A DESCRIPTION FOR THE MOD)
+
+This (expansion) mod adds variety of races, and tons of weapons. Encounter dangerous
+
+
 
 === Credits: ===
 
