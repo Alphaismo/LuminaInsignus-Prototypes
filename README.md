@@ -16,4 +16,4 @@ patman - he's just awesome (and also helped me with XXx_FaZe-Pu55ySL4Y3R_xXX BFG
 
 Aegonian and entirety of THEA Discord - Inspiring me.
 
-Silver Sokolova - Raiizy pulled a gun on me to credit her ;-;
+Silver Sokolova - Raiizy pulled a gun on me to credit her as i did anyone else ;-;
