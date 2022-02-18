@@ -3,7 +3,8 @@
 (EXTRACT THE ZIP FILE ITSELF)
 
 === Credits: ===
-Frykas - Helping me with majority of content.
+
+Frykas - Helping me with majority of content. 
 Raiizy - Inspiring me to make fuckton of guns.
 patman - he's just awesome (and also helped me with XXx_FaZe-Pu55ySL4Y3R_xXX BFG).
 Aegonian and entirety of THEA Discord - Inspiring me.
