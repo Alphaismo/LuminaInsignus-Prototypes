@@ -8,12 +8,14 @@ This (expansion) mod adds variety of races, and tons of weapons. Encounter the g
 
 # === Credits: ===
 
-Frykas - Helping me with majority of content. 
+Frykas - Helping me with majority of content. (and most importantly, with Vervas Tharaau dungeon).
 
 Raiizy - Inspiring me to make fuckton of guns.
 
 patman - he's just awesome (and also helped me with XXx_FaZe-Pu55ySL4Y3R_xXX BFG).
 
 Aegonian and entirety of THEA Discord - Inspiring me.
+
+Inferus - Proposing better Yls'Uthir color palette.
 
 Silver Sokolova - Raiizy pulled a gun on me to credit her as i did anyone else ;-;
