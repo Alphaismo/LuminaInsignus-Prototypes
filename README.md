@@ -1,4 +1,4 @@
-# LuminaInsignus-Prototype1
+# LuminaInsignus-Prototypes
 
 (EXTRACT THE ZIP FILE ITSELF, AND I'M TOO LAZY TO MAKE A DESCRIPTION FOR THE MOD)
 
