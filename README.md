@@ -8,7 +8,7 @@ This (expansion) mod adds variety of races, and tons of weapons. Encounter the g
 
 # === Credits: ===
 
-Frykas - Helping me with majority of content. (and most importantly, with Vervas Tharaau dungeon).
+Frykas - Helping me with majority of content. (and most importantly, with Vervas Tharaau dungeon, etc).
 
 Raiizy - Inspiring me to make fuckton of guns.
 
