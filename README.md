@@ -2,7 +2,7 @@
 
 (EXTRACT THE ZIP FILE ITSELF, AND I'M TOO LAZY TO MAKE A DESCRIPTION FOR THE MOD)
 
-This (expansion) mod adds variety of races, and tons of weapons. Encounter the great dangers of Andarhans. Visit the vast metropolis of Lumina Insignus, the zenith of Vervas Tharaau or hidden luxuries of Lightbrick City. Discover the greater unknown. Sleep with Boomboxid women. Unravel the dangerous secrets the worlds have to offer.
+This (expansion) mod adds variety of races, and tons of weapons. Encounter the great dangers. Visit the vast metropolis of Lumina Insignus, the zenith of Vervas Tharaau or hidden luxuries of Lightbrick City. Discover the greater unknown. Sleep with Boomboxid women. Unravel the dangerous secrets the worlds have to offer.
 
 
 
